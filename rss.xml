@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Zen Life Group]]></title>
+        <description><![CDATA[Zen Life Group]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 31 Mar 2016 07:20:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Partners ]]></title>
+            <description><![CDATA[<article><h1>Partners </h1><p>Christopher Jordan has been a in the hospitality business for more than half his life and he has always believed that "life is meant to be lived sincerely and from the heart." In order to accomplish this, Chris knew that he had to embrace his passion for living life in service to others, by creating businesses that would bring a sense of peace and harmony to all those who dear to enjoy their own lives. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65dc276005345d92e1a14b4714a87ebd35054555.jpg"></article>]]></description>
+            <link>undefinedpartners/index.html</link>
+            <guid isPermaLink="false">f06ac0e6-1d47-4e96-9ab3-56a362c40717</guid>
+            <pubDate>Thu, 31 Mar 2016 07:19:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
