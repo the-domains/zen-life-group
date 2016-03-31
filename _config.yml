@@ -1,0 +1,28 @@
+name: Zen Life Group
+favicon: null
+layout_spectrum: 0.5974266796838492
+typography_spectrum: 0.39041631878353655
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.28148814802989364
+  lightness: 0.17165101575665176
+  saturation: 0.856952389003709
+  rhythmicContrast: 0.8350269922520965
+purpose: []
